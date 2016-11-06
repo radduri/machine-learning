@@ -25,7 +25,7 @@
  
 ## 4. How should I go about learning this course?
     
-    At first, I would suggest talking to professors and seniors who are already a part of machine learning projects. They should guide you enough about it.
+   At first, I would suggest talking to professors and seniors who are already a part of machine learning projects. They should guide you enough about it.
 
    There are various courses available online
  
