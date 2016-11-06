@@ -15,13 +15,14 @@
 ## 3. What are the prerequisites to learn machine learning?
 
    **Some mathematical topics you should know:**
-      i) linear algebra
-      ii) probability theory
-      iii) calculus
-      iv) statistics
-      v) calculus of variations
-      vi) graph theory
-      vii) optimization methods (Lagrange multipliers)
+   
+		1. Linear Algebra
+      2. Probability Theory
+      3. Calculus
+      4. Statistics
+      5. Calculus Of Variations
+      6. Graph Theory
+      7. Optimization Methods (Lagrange multipliers)
  
 ## 4. How should I go about learning this course?
     
