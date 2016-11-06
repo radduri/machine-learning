@@ -16,7 +16,7 @@
 
    **Some mathematical topics you should know:**
    
-		1. Linear Algebra
+      1. Linear Algebra
       2. Probability Theory
       3. Calculus
       4. Statistics
